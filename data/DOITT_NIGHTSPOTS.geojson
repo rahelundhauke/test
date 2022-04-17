@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 0,
+            "properties": {
+                "NAME": "Erste Nacht",
+                "DATE": "26.08.2021",
+                "DESCRIPTION": "Erster Schlafplatz nach der Fährüberfahrt.",
+                "IMG": "https://lh3.googleusercontent.com/swpSUsxJvSxl_c84K4cXpkJratGJn9VPiAlnM7is5yuwC5BJz-P1kcb2lG4Pce0XZJpMVU6SMleNNS2T9-Uyspim8vrdTKS-QYlGPvlL-yfAhu4CyUheM8xeLK9yfCU1eTa93w2EfK4=w600-h315-p-k"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.359679,
+                    55.337511
+                ]
+            }
+        }
+    ]
+}

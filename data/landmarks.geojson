@@ -1,0 +1,22 @@
+{
+    "type": "Feature",
+    "id": 1,
+    "properties": {
+        "Division": "IND",
+        "Line": "Archer Avenue",
+        "route_id": "2021"
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                11.075065,
+                49.725724
+            ],
+            [
+                11.185499,
+                48.033588
+            ]
+        ]
+    }
+}
